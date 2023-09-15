@@ -1,1 +1,2 @@
 # Power-BI-Financial-Analysis-Dashboard
+A financial analysis dashboard created with Power BI provides a concise visual overview of key financial metrics and trends. Interactive charts, graphs, and KPIs enable users to track and analyze financial data effortlessly. Customizable features allow for drill-down analysis, budget comparisons, and forecasting. This dynamic tool empowers decision-makers to make informed financial decisions, identify opportunities, and mitigate risks efficiently, enhancing overall financial management and strategic planning.
